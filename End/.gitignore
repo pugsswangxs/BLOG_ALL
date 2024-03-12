@@ -1,0 +1,4 @@
+.idea/
+requirements.txt
+./*/migrations/
+./static/*
